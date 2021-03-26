@@ -1,7 +1,6 @@
 # AreTheyFriends
 
-AreTheyFriends is an app for asking "friendship" questions in social networks. It reads social networks in graph form and converts to [compressed-sparse-rows](https://en.wikipedia.org/wiki/Sparse_matrix#Compressed_sparse_row_(CSR,_CRS_or_Yale_format). Στη συνέχεια μπορεί να απαντήσει σε ερωτήματα όπως ποιοί είναι οι γείτονες ενός κόμβου (ποιοί είναι οι φίλοι ενός ατόμου σε ένα κοινωνικό δίκτυο) και αν δύο κόμβοι συνδέονται μεταξύ τους και πόσο είναι το μήκος του μονοπατιού σε αριθμό ακμών.Η διάσχιση του γραφήματος γίνεται με αλγόριθμο [BFS](https://en.wikipedia.org/wiki/Breadth-first_search).
-
+AreTheyFriends is an app for asking "friendship" questions in social networks. It reads social networks in graph form and converts to [compressed-sparse-rows](https://en.wikipedia.org/wiki/Sparse_matrix#Compressed_sparse_row_(CSR,_CRS_or_Yale_format). 
 ## Compilation
 
 Compile using: 
